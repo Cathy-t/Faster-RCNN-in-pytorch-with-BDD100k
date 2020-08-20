@@ -14,8 +14,10 @@ Categories include：['bus', 'traffic light', 'traffic sign', 'person', 'bike', 
    
    因拍摄的时间、环境的不同，会呈现出较大的不同，第一张图片灰暗、模糊，而第二张图片强光。
 
-![](https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/data/original1.png)
-![](https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/data/original2.png)
+<div align=center>
+<img width="40%" src="https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/data/original1.png"/>
+<img width="40%" src="https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/data/original2.png"/>
+</div>
 
 * 数据集类别信息
 >根据给出的数据集标签，类别一共有十类，分别为'bus', 'traffic light', 'traffic sign', 'person', 'bike', 'truck', 'motor', 'car', 'train', 'rider'. 各类对象数目统计分布如图3所示，图片中car这一类别占的比例最大，train这一类别占的比例最小。
