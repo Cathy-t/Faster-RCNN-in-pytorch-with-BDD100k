@@ -22,7 +22,5 @@ Categories include：['bus', 'traffic light', 'traffic sign', 'person', 'bike', 
 <div align=center><img src="https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/data/distribution.png"/></div>
 
 ## 训练后的可视化
-<div align=center>
 <div align=left><img width="40%" src="https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/det_images/epoch2/cabc30fc-e7726578.jpg"/></div>
 <div align=right><img width="40%" src="https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/det_images/epoch2/cabc30fc-eb673c5a.jpg"/></div>
-</div>
