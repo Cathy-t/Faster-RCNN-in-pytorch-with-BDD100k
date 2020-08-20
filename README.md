@@ -19,8 +19,10 @@ Categories include：['bus', 'traffic light', 'traffic sign', 'person', 'bike', 
 
 * 数据集类别信息
 >根据给出的数据集标签，类别一共有十类，分别为'bus', 'traffic light', 'traffic sign', 'person', 'bike', 'truck', 'motor', 'car', 'train', 'rider'. 各类对象数目统计分布如图3所示，图片中car这一类别占的比例最大，train这一类别占的比例最小。
-![](https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/data/distribution.png)
+<div align=center><img src="https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/data/distribution.png"/></div>
 
 ## 训练后的可视化
-![](https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/det_images/epoch2/cabc30fc-e7726578.jpg)
-![](https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/det_images/epoch2/cabc30fc-eb673c5a.jpg)
+<div align=center>
+<div align=left><img width="45%" src="https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/det_images/epoch2/cabc30fc-e7726578.jpg"/></div>
+<div align=right><img width="45%" src="https://github.com/Cathy-t/Fater-RCNN-in-pytorch-with-BDD100k/blob/master/det_images/epoch2/cabc30fc-eb673c5a.jpg"/></div>
+</div>
