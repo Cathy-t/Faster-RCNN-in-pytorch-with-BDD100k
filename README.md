@@ -1,4 +1,4 @@
-# Fater-RCNN-in-pytorch-with-BDD100k
+# Faster-RCNN-in-pytorch-with-BDD100k
 Train faster rcnn and evaluate in BDD100k dataset with pytorch.
 
 Dataset：BDD100K
